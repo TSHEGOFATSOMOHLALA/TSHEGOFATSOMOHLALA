@@ -52,7 +52,7 @@ A community platform allowing residents to report service issues to municipaliti
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/tshegofatso-mohlala)
+- [LinkedIn](https://www.linkedin.com/in/tshegofatso-mohlala-a54a63237/)
 - [GitHub](https://github.com/TSHEGOFATSOMOHLALA)
 
 ---
